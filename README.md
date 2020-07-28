@@ -2,16 +2,16 @@
   🚀 Altimus - Sistemas para Lojas de Veículos
 </h1>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wanderhungerbuhler/altimus">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wanderhungerbuhler/Altimus">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wanderhungerbuhler/altimus">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wanderhungerbuhler/Altimus">
 
-  <a href="https://github.com/wanderhungerbuhler/altimus/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wanderhungerbuhler/altimus">
+  <a href="https://github.com/wanderhungerbuhler/Altimus/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wanderhungerbuhler/Altimus">
   </a>
 
-  <a href="https://github.com/wanderhungerbuhler/altimus/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/wanderhungerbuhler/altimus">
+  <a href="https://github.com/wanderhungerbuhler/Altimus/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/wanderhungerbuhler/Altimus">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
